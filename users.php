@@ -4,7 +4,7 @@ $del = isset( $_GET['del'] ) && is_numeric( $_GET['del'] ) ? $_GET['del'] : '';
 ?>
 
 <!DOCTYPE html>
-<html lang="pt-BR" xml:lang="pt-BR" itemscope="itemscope" itemtype="http://schema.org/Organization">
+<html lang="en" xml:lang="en" itemscope="itemscope" itemtype="http://schema.org/Organization">
 
     <head>
         <meta charset="UTF-8">
